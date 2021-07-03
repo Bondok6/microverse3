@@ -1,0 +1,7 @@
+header {
+  width: 100%;
+  height: auto;
+}
+header nav #logo img {
+  width: 30%;
+}
